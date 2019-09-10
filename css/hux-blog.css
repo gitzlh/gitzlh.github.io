@@ -508,7 +508,7 @@ pre code {
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
-    margin-bottom: 3px;
+    margin-bottom: 20px;
     /* response on desktop */
   }
 }
