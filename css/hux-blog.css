@@ -499,10 +499,10 @@ pre code {
   background: no-repeat center center;
   background-color: #808080;
   background-attachment: scroll;
-  -webkit-background-size: 20px;
-  -moz-background-size: 20px;
-  background-size: 20px;
-  -o-background-size: 20px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
   margin-bottom: 0px;
   /* 0 on mobile, modify by Hux */
 }
@@ -526,7 +526,7 @@ pre code {
   }
 }
 .intro-header .site-heading {
-  padding: 95px 0 70px;
+  padding: 9px 0 7px;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading {
