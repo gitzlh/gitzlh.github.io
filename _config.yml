@@ -1,10 +1,10 @@
 # Site settings
 title:  须臾所思
-SEOTitle: 须臾所思
+SEOTitle: 张林昊的博客
 header-img: img/post-bg-desk.jpg
 email: zhanglinhao@pku.edu.cn
 description: "Know thyself"
-keyword: "Odyssey, 张林昊的博客"
+keyword: " 张林昊的博客"
 url: "http://gitzlh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/gitzlh/gitzlh.github.io.git" # you code repository
