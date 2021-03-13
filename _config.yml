@@ -2,7 +2,7 @@
 title:  须臾所思
 SEOTitle: 须臾所思
 header-img: img/post-bg-desk.jpg
-email: zhanglinhao@pku.edu.cn
+#email: zhanglinhao@pku.edu.cn
 description: "Know thyself"
 keyword: "须臾所思"
 url: "http://gitzlh.github.io"          # your host, for absolute URL
@@ -17,8 +17,8 @@ sidebar: true                           # whether or not using Sidebar.
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     zhanglinhao96
-github_username:    gitzlh
+#zhihu_username:     zhanglinhao96
+#github_username:    gitzlh
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
